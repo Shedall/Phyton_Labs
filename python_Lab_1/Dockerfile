@@ -2,6 +2,6 @@ FROM python
 
 WORKDIR .
 
-COPY . .
+COPY . /
 
-CMD ["python", "lab_1.py"]
+CMD ["phyton", "Lab_1.py"]
