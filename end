@@ -1,0 +1,47 @@
+[33mcommit 5dc104a24237da5a5f5546242bbbcc4ea3116b55[m[33m ([m[1;36mHEAD -> [m[1;32mLab_1[m[33m, [m[1;31morigin/Lab_1[m[33m)[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Fri Feb 24 23:25:50 2023 +0300
+
+    add dockerfile
+
+[33mcommit 1f087ca7d61e97c700da85299cb6e61b1e1e3c21[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Thu Feb 23 03:02:50 2023 +0300
+
+    addminiCalculator, Finished coding in Python
+
+[33mcommit 2f7835538c011e061727bddd8b543dd7c0ff64e7[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 04:07:27 2023 +0300
+
+    add list of even numbers
+
+[33mcommit 788dc9dabdf445c8fbdaaaeb049172994fa31ae6[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 03:06:20 2023 +0300
+
+    gitignore stage_3
+
+[33mcommit 7b4fb3bf674936f87eca836b8f045fb634d4b656[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 03:01:47 2023 +0300
+
+    gitignore stage_2
+
+[33mcommit 397706185a23f7205ae057e4ea6734d3414cd771[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 02:59:16 2023 +0300
+
+    add gitignore
+
+[33mcommit ce029fdef928189ffa608b13aae4399d8fc65ba5[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 02:34:40 2023 +0300
+
+    add helow worls
+
+[33mcommit 0d3a0f6da42f857c7c350ec63c0e133293eb6427[m
+Author: Nikita <nikokozorro@mail.ru>
+Date:   Wed Feb 22 01:49:16 2023 +0300
+
+    add ReadMe
